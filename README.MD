@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About My Work
-I specialize in designing robust, scalable solutions. A key strength of mine is **maintaining and modernizing legacy codebases**, smoothly upgrading outdated systems to modern technologies while implementing better development practices. 
+I specialize in designing robust, scalable solutions. A key strength of mine is **maintaining and modernizing legacy projects**, smoothly upgrading outdated systems to modern technologies while implementing better development practices. 
 
 Whether I am building efficient user interfaces, developing reliable backend architectures, or leveraging **Node.js and Python for web scraping and data extraction**, I focus on delivering clean, maintainable solutions. I actively incorporate modern tools like AI-assisted development and containerization to streamline the software lifecycle.
 
